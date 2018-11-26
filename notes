@@ -1,0 +1,13 @@
+variable
+
+        $_POST
+        $_GET
+
+to connect to database --but a bad idea
+
+        mySQLi , where i=improved
+
+
+to connect to database - good and modern
+
+        PDO - it is object oriented
